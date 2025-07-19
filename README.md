@@ -21,22 +21,22 @@
 
 ## 目次 – TABLE OF CONTENTS
 
-1. [壱 – LAB PREPARATION](#壱--lab-preparation)
-2. [弐 – INSTALLING & UPDATING NMAP](#弐--installing--updating-nmap)
-3. [参 – THE ANATOMY OF A SCAN LINE](#参--the-anatomy-of-a-scan-line)
-4. [四 – TARGET SPECIFICATION](#四--target-specification)
-5. [五 – HOST DISCOVERY (PING SCANS)](#五--host-discovery-ping-scans)
-6. [六 – TCP PORT SCANNING MODES](#六--tcp-port-scanning-modes)
-7. [七 – UDP PORT SCANNING](#七--udp-port-scanning)
-8. [八 – SCTP & IP‑PROTOCOL SCANS](#八--sctp--ip-protocol-scans)
-9. [九 – VERSION & OS DETECTION](#九--version--os-detection)
-10. [拾 – TIMING & PERFORMANCE TUNING](#拾--timing--performance-tuning)
-11. [拾壱 – FIREWALL / IDS EVASION FLAGS](#拾壱--firewall--ids-evasion-flags)
-12. [拾弐 – NMAP SCRIPTING ENGINE (NSE)](#拾弐--nmap-scripting-engine-nse)
-13. [拾参 – OUTPUT FORMATS & AUTOMATION](#拾参--output-formats--automation)
-14. [拾肆 – BLUE‑TEAM ANALYSIS CHECKLIST](#拾肆--blue-team-analysis-checklist)
-15. [拾伍 – FREQUENTLY FORGOTTEN FLAGS](#拾伍--frequently-forgotten-flags)
-16. [拾陸 – CONTINUING EDUCATION](#拾陸--continuing-education)
+1. [壱 – LAB PREPARATION]
+2. [弐 – INSTALLING & UPDATING NMAP]
+3. [参 – THE ANATOMY OF A SCAN LINE]
+4. [四 – TARGET SPECIFICATION]
+5. [五 – HOST DISCOVERY (PING SCANS)]
+6. [六 – TCP PORT SCANNING MODES]
+7. [七 – UDP PORT SCANNING]
+8. [八 – SCTP & IP‑PROTOCOL SCANS]
+9. [九 – VERSION & OS DETECTION]
+10. [拾 – TIMING & PERFORMANCE TUNING]
+11. [拾壱 – FIREWALL / IDS EVASION FLAGS]
+12. [拾弐 – NMAP SCRIPTING ENGINE (NSE)]
+13. [拾参 – OUTPUT FORMATS & AUTOMATION]
+14. [拾肆 – BLUE‑TEAM ANALYSIS CHECKLIST]
+15. [拾伍 – FREQUENTLY FORGOTTEN FLAGS]
+16. [拾陸 – CONTINUING EDUCATION]
 
 _Total read‑through + lab time: ≈ 4 hours._
 
