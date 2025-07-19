@@ -1,7 +1,8 @@
 ````markdown
 # █▓▒▒░░░ THE ULTIMATE **NMAP** NETWORK‑SCANNING TUTORIAL ░░░▒▒▓█
 
-> **Goal:** Take you from “I can run `nmap -F`” to “I can fine‑tune scans, evade an IDS, parse XML into Splunk, and teach others why each packet matters.”
+> **Goal:** Take you from “I can run `nmap -F`” to “I can fine‑tune scans, evade an IDS, parse XML into Splunk,
+> and teach others why each packet matters.”
 >
 > **Lab Topology (minimum):**
 > * **Attacker VM:** Kali Linux 2024.4 or later
